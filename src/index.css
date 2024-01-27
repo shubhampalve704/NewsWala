@@ -1,0 +1,19 @@
+.navbar-brand{
+    color: rgb(109, 189, 185);
+}
+.Heading{
+  color: rgb(67, 145, 141);
+  /* background-color:mediumturquoise; */
+    font-weight: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Heading::selection{
+    color: red;
+    background-color: black;
+  }
+
+  .spinner{
+    /* height: 2%; */
+    /* width: 4%; */
+  }
